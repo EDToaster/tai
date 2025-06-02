@@ -12,7 +12,7 @@ futures = "0.3.31"
 ratatui = "0.29.0"
 tokio = { version = "1.40.0", features = ["full"] }
 color-eyre = "0.6.3"
-openai = "1.1.0"
+openai = "1.1.1"
 tui-textarea = "0.7.0"
 tui-widget-list = "0.13.2"
 tui-markdown = "0.3.5"
